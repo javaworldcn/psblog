@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "PS Blog"
   text: "Tech,Life"
-  tagline: My great project tagline
+  tagline: Who are you
   actions:
     - theme: brand
       text: Markdown Examples
