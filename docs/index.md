@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "PS Blog"
+  name: "Dawn"
   text: "Tech,Life"
-  tagline: Who are you
+  tagline: First rays of the morning sun
   actions:
     - theme: brand
       text: Markdown Examples
