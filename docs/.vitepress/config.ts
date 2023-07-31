@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  
   title: "PS Blog",
   description: "Tech,Life",
   themeConfig: {
@@ -9,7 +10,8 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Examples', link: '/markdown-examples' },
-      { text: 'API', link: '/api-examples' }
+      { text: 'API', link: '/api-examples' },
+      { text: 'About', link: '/aboutme' }
     ],
 
     sidebar: [
@@ -18,13 +20,13 @@ export default defineConfig({
         items: [
           { text: 'Markdown Examples', link: '/markdown-examples' },
           { text: 'Runtime API Examples', link: '/api-examples' },
-          { text: 'About Me', link: '/about/aboutme' }
+          { text: 'About Me', link: '/aboutme' }
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/javaworldcn/psblog' }
     ]
   }
 })
