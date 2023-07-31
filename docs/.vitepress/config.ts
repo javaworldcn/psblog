@@ -8,19 +8,19 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' },
-      { text: 'API', link: '/api-examples' },
-      { text: 'About', link: '/aboutme' }
+      { text: '首页', link: '/' },
+      { text: '技术', link: '/tech' },
+      { text: '生活', link: '/life' },
+      { text: '关于我', link: '/aboutme' }
     ],
 
     sidebar: [
       {
         text: 'Examples',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' },
-          { text: 'About Me', link: '/aboutme' }
+          { text: '技术', link: '/tech' },
+          { text: '生活', link: '/life' },
+          { text: '关于我', link: '/aboutme' }
         ]
       }
     ],
