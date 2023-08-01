@@ -1,21 +1,26 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
+titleTemplate: Unite the Grand Line & Conquer the Seas
 
 hero:
-  name: "Dawn"
-  text: "Tech,Life"
-  tagline: First rays of the morning sun
+  name: "OnePiece"
+  text: "Conquer the Seas"
+  tagline: Embark on an Epic Journey - Unveiling the World of OnePiece
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 技术
+      link: /tech/web
+    - theme: brand
+      text: 生活
+      link: /life/travel
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: View on GitHub
+      link: https://github.com/javaworldcn/psblog
 
 features:
-  - title: Feature A
+  - icon: 🚀
+    title: Feature A
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: Feature B
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -23,3 +28,4 @@ features:
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
+  
