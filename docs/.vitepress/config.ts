@@ -52,9 +52,9 @@ export default defineConfig({
     search: {
       provider: 'algolia',
       options: {
-        appId: 'F919JCK8WY',
-        apiKey: '3eca209ad24bdfc26db63382dd5e4490',
-        indexName: 'sugarat_top',
+        appId: '1J8L41CYGX',
+        apiKey: '8cf8fae7d548196b2a2d8b64ac096ad9',
+        indexName: 'pengshaohong',
         placeholder: '请输入要搜索的内容...'
       }
     },
