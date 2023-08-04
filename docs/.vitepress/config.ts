@@ -7,6 +7,7 @@ export default defineConfig({
   description: "Tech,Life",
   lastUpdated: true,
   cleanUrls: true,
+  ignoreDeadLinks: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -37,8 +38,7 @@ export default defineConfig({
               { text: '前端', link: '/tech/web' },
               { text: '后端', link: '/tech/backend' },
               { text: '常见问题', link: '/tech/issue' },
-              { text: '本站实现', link: '/tech/blogdev'}
-              
+              { text: '本站实现', link: '/tech/blogdev'}            
             ]
           },
           { text: '旅行', link: '/life/travel' },
