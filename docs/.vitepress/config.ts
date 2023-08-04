@@ -8,6 +8,7 @@ export default defineConfig({
   lastUpdated: true,
   cleanUrls: true,
   ignoreDeadLinks: true,
+  lang: "zh-CN",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
