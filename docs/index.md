@@ -9,9 +9,9 @@ hero:
   tagline: Embark on an Epic Journey - Unveiling the World of OnePiece
   actions:
     - theme: brand
-      text: 技术
-      link: /tech/web
-    - theme: brand
+      text: 本站实现流程
+      link: /tech/blogdev
+    - theme: alt
       text: 生活
       link: /life/travel
     - theme: alt

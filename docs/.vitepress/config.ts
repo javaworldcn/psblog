@@ -16,7 +16,7 @@ export default defineConfig({
           { text: '前端', link: '/tech/web' },
           { text: '后端', link: '/tech/backend' },
           { text: '常见问题', link: '/tech/issue' },
-          { text: '个人作品', link: '/tech/myproject'}
+          { text: '本站实现', link: '/tech/blogdev'}
         ]
       },
       { text: '生活', 
@@ -37,7 +37,8 @@ export default defineConfig({
               { text: '前端', link: '/tech/web' },
               { text: '后端', link: '/tech/backend' },
               { text: '常见问题', link: '/tech/issue' },
-              { text: '个人作品', link: '/tech/myproject'}
+              { text: '本站实现', link: '/tech/blogdev'}
+              
             ]
           },
           { text: '旅行', link: '/life/travel' },
