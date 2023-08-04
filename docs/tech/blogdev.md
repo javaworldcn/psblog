@@ -22,3 +22,5 @@
 [VitePress官网](https://vitepress.dev)
 
 [sugarat博客](http://sugarat.top)
+
+[chodocs](https://chodocs.cn)
